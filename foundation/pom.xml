@@ -112,7 +112,7 @@
     </dependencies>
 
     <build>
-        <finalName>jrmmba-foundation</finalName>
+        <finalName>wme-dev-foundation</finalName>
 
         <plugins>
             <plugin>
